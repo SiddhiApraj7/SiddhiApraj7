@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siddhi :)</h1>
-<h3 align="center">A sophomore in Mathematics & Computing at the Indian Institute Of Technology(IIT) Ropar</h3>
+<h3 align="center">A final year student in Mathematics & Computing at the Indian Institute Of Technology(IIT) Ropar</h3>
 
-- I’m currently learning **DSA, Frontend Technologies, App Development and Backend Technologies**
+- I’m currently learning **Artificial Intelligence, Machine Learning, Frontend/Backend Technologies and App Development**
 
 - You can reach me via **siddhiapraj@gmail.com**
 
